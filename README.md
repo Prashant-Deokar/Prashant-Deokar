@@ -11,5 +11,5 @@ Other Expertise: Web development, system design, and deployment.
 🌱 Currently learning: Advanced cloud development, microservices architecture, and full-stack optimization.
 👯 Looking to collaborate on: Web development projects, enterprise-level applications, and innovative SaaS products.
 💬 Ask me about: Angular, responsive design, CI/CD pipelines, and Java back-end development.
-📫 How to reach me: Connect with me on LinkedIn or email me at your-email@example.com.
+📫 How to reach me: Connect with me on LinkedIn or email me at prashantdeokar0121@gmail.com.com.
 ⚡ Fun fact: I love solving complex challenges, whether it's debugging code or designing scalable systems—problems are just puzzles waiting to be solved! 🧩
