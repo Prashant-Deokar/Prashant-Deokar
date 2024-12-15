@@ -4,10 +4,17 @@ I’m Prashant Deokar, a passionate and skilled Web Developer with expertise in 
 🚀 About Me
 🔭 Currently working at: Sdaemon Infotech Private Limited, contributing to impactful projects and delivering exceptional solutions.
 
-🌐 Skills:
-Front-End: Angular, React.js, JavaScript, jQuery, HTML5, CSS3 (including Responsive Design).
-Back-End: Java, SpringBoot.
+🌐 Skills: 
+Front-End: Angular, React.js, JavaScript, RxJS, jQuery, Bootsrap, HTML5, CSS3 (including Responsive Design).
+
+Back-End: Java, Spring Boot
+
+Third-Party Libraries:
+Angular-specific: ngx-bootstrap, Angular Material, PrimeNG, ngx-slick-carousel.
+General libraries: Lodash, Moment.js, Chart.js, and D3.js,day.js.
+
 Tools & Practices: Azure DevOps, CI/CD pipelines, Git, Design Patterns.
+
 Other Expertise: Web development, system design, and deployment.
 
 🌱 Currently learning: Advanced cloud development, microservices architecture, and full-stack optimization.
